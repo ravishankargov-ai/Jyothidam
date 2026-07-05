@@ -1,0 +1,18 @@
+{
+  "name": "Jyotisha — Vedic Astrology",
+  "short_name": "Jyotisha",
+  "description": "Astronomically computed Tamil/English Vedic horoscope with full jathagam readings — works offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1a1636",
+  "theme_color": "#1a1636",
+  "categories": ["lifestyle", "education", "utilities"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
